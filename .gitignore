@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/ZoeFolder/OldWest/VOL1/Materials
+/Content/ZoeFolder/OldWest/Shared/Materials
+/Content/ZoeFolder/OldWest/Shared/Textures
+/Content/ZoeFolder/OldWest/VOL1/BP
+Content/ZoeFolder/OldWest/VOL1/Textures/T_WallShelf_NN_01a_RMA.uasset
+/Content/ZoeFolder/OldWest/VOL1/Textures
